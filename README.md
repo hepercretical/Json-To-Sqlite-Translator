@@ -28,7 +28,7 @@ To recreate the development environment, you need the following software and/or 
 
 I found these websites useful in developing this software:
 
-* w3schools (researching syntax for JSON, SQL and java)
+* w3schools (researching syntax terminology and structures for JSON, SQL and java)
 * ChatGPT.com (project ideas, design implementation, and testing)
 
 ## Future Work
